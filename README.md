@@ -1,4 +1,4 @@
 # NFL Game Predictor
-Project build by: Jon Grimes 
-Purpose: Build an algorithm to predict NFL game results and scores
-Tech Stack: Python
+Project build by: Jon Grimes</br>
+Purpose: Build an algorithm to predict NFL game results and scores</br>
+Tech Stack: Python</br>
